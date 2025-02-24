@@ -6,15 +6,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yodha07&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yodha07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-###
+
 
 <picture>
-  ![Light Mode Snake](https://raw.githubusercontent.com/yodha07/yodha07/output/github-snake.svg#gh-light-mode-only)
-  ![Dark Mode Snake](https://raw.githubusercontent.com/yodha07/yodha07/output/github-snake-dark.svg#gh-dark-mode-only)
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yodha07/yodha07/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/yodha07/yodha07/output/github-snake-dark.svg](https://github.com/yodha07/intro/blob/output/github-snake-dark.svg)" />
+  <img alt="github-snake" src="https://github.com/yodha07/intro/blob/output/github-snake-dark.svg" />
 </picture>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
