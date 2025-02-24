@@ -9,8 +9,8 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yodha07/yodha07/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yodha07/yodha07/output/github-snake.svg" />
+  ![Light Mode Snake](https://raw.githubusercontent.com/yodha07/yodha07/output/github-snake.svg#gh-light-mode-only)
+  ![Dark Mode Snake](https://raw.githubusercontent.com/yodha07/yodha07/output/github-snake-dark.svg#gh-dark-mode-only)
   <img alt="github-snake" src="https://raw.githubusercontent.com/yodha07/yodha07/output/github-snake.svg" />
 </picture>
 
