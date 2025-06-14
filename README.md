@@ -1,4 +1,4 @@
-<h4 align="center">Hi, 👋 Aditya here</h4>
+<h1 align="center">Hi, 👋 Aditya here</h1>
 
 ###
 
@@ -65,7 +65,8 @@
 
 ###
 <div>
-  <h1>Welcome!</h1>
+  <h1 align="center">Thank you && Welcome!</h1>
+  <h4 align="center">Visit again</h4>
 </div>
 
 
